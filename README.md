@@ -30,3 +30,5 @@ $ make clear
 
 will remove sources
 
+
+ext4_utils build script from https://github.com/ASdev/android_img_repack_tools
